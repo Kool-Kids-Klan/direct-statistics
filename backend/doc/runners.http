@@ -1,6 +1,6 @@
 @base=http://127.0.0.1:8080
 
-POST {{base}}/echo
+POST {{base}}/runners/client1
 # Content-Type: application/json
 
 {
